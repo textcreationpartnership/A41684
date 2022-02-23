@@ -1,0 +1,793 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Epistle to all the Christian magistrates and powers in the whole Christendom and professors, and teachers, and Christians that witness the end of the law, and the Levitical priesthood, and confess Christ Jesus ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41684</idno>
+            <idno type="STC">Wing G1414</idno>
+            <idno type="STC">ESTC R15794</idno>
+            <idno type="EEBO-CITATION">13603157</idno>
+            <idno type="OCLC">ocm 13603157</idno>
+            <idno type="VID">100741</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41684)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100741)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 788:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Epistle to all the Christian magistrates and powers in the whole Christendom and professors, and teachers, and Christians that witness the end of the law, and the Levitical priesthood, and confess Christ Jesus ...</title>
+                  <author>Fox, George, 1624-1691.</author>
+                  <author>Gould, Anne, 17th cent.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 12 by Anne Gould and four others and at end: G.F.</note>
+                  <note>Written in part by George Fox.  Cf. NUC pre-1956.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100741:1"/>
+            <pb facs="tcp:100741:1"/>
+            <p>AN
+EPISTLE
+To all the Chriſtian
+MAGISTRATES
+And Powers in the whole
+<hi>CHRISTENDOM,</hi>
+And Profeſſors, and Teachers, and Chriſtians that
+witneſs the end of the Law, and the Levitical
+Prieſthood, and confeſs Chriſt Jeſus the ſubſtance,
+the Reſt of the People of God, the ſubſtance,
+the Sabbath, that ends the Day, which was a Sign;
+and likewiſe, that owns the Doctrine of the A<g ref="char:EOLhyphen"/>poſtles,
+<hi>&amp;c.</hi>
+            </p>
+            <p>LONDON,
+Printed for <hi>Thomas Simmons,</hi> at the Bull and
+Mouth near Alderſgate, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:100741:2"/>
+            <p>AN Epiſtle to all the Chriſtian Magiſtrates and pow<g ref="char:EOLhyphen"/>ers
+in the whole Chriſtendom, and Profeſſors, and
+Teachers, and Chriſtians, that witneſs the end
+of the Law, and the Levitical Prieſthood, and con<g ref="char:EOLhyphen"/>feſs
+Chriſt Jeſus the ſubſtance, the reſt of the people of God;
+the ſubſtance, the Sabbath, that ends the day, which was a
+ſign; and likewiſe, that owns the Doctrine of the Apoſtles:
+To ſuch I ſay, that owns Chriſt Jeſus the ſubſtance and his
+Doctrine, and the Apoſtles Doctrine; I ſay, do not perſe<g ref="char:EOLhyphen"/>cute
+one another about dayes, Sabbath-dayes, Holy-dayes,
+Feſtival-dayes, Faſting-dayes, or in meats or drinks, which
+the Kingdom of Heaven ſtands not in, but in power; for the
+Sabbath which the Lord gave unto man, a ſign to man, and
+the Creation, Ox and Aſſe; ſix dayes, the Lord ſaith, ſhalt
+thou labour, the ſeventh thou ſhalt reſt, and keep holy to
+the Lord; Which ſeventh day, he that did tranſgreſs, was
+to be ſtoned to death, read <hi>Numb.</hi> 15. 26. And every one
+that did not keep the Sabbath, but did work therein, ſhould
+be cut off from among the people; ſo according to the Law
+of God, which was given forth, that they ſhould keep the
+Sabbath day, which is the ſeventh day, which ye keep Mar<g ref="char:EOLhyphen"/>kets
+and Fairs on, in moſt of the chief Towns, and chief
+Markets of the Nation, ye are all by the Law of God to be
+cut off; for this Law was given to the Children of <hi>Iſrael,</hi>
+this Law and Commandement, which was a Covenant, a
+perpetual Covenant, and a ſign between the Children of
+<hi>Iſrael</hi> and the Lord for ever; the Children of <hi>Iſrael</hi> found a
+man gathering ſticks on the Sabbath day, the ſeventh day,
+on which ye keep Markets and Fairs, and they brought him
+unto <hi>Moſes</hi> the chief Magiſtrate, and unto <hi>Aaron,</hi> and unto the
+Congregation, and they put him in Ward, for it was not
+revealed what they ſhould do to him; &amp; the Lord ſaid unto
+<hi>Moſes,</hi> the man ſhall be put to death, and all the Congregation
+ſhall ſtone him with ſtones; Now if ye go according to the
+Law of God, which ye do pretend, and keep Markets and
+Fairs, and buying and ſelling, and your work upon thoſe
+<pb n="3" facs="tcp:100741:2"/>
+dayes, both ye and your cattel, and horſes, which is con<g ref="char:EOLhyphen"/>trary
+to the Law of God; Are not ye dead men all by the
+Law of God, and men to be ſtoned to death, according to
+your own Judgement? as ye may read <hi>Numb.</hi> 15. 35, 36.
+The Law of God which is for the breakers of the Sabbath
+day, the ſeventh day, which was not for the firſt day of the
+week; And ye do not read that there was any puniſhment
+by any Law for working upon any other dayes, but for the
+ſeventh day, the Sabbath day, which God gave as a ſign and
+a Covenant between him and the Children of <hi>Iſrael,</hi> before
+Chriſt was come into the fleſh, the ſubſtance of all ſigns;
+Do you own Chriſt come in the fleſh, the ſubſtance that ends
+the ſigns, that perſecutes people about the Sabbath?
+Are ye not according to the Law of God to be ſtoned to
+death, not to ſtrain their goods, but ſtone them to death
+that tranſgreſs the Sabbath day? And did not the Prophets
+cry out often when the Children of <hi>Iſrael</hi> had tranſgreſſed
+the Sabbath, and broken the Sabbath, and kept not the ſe<g ref="char:EOLhyphen"/>venth
+day? they did not cry out againſt them for working
+on the ſix dayes; And have not ye broken the Sabbath, and
+keeps Markets and Fairs upon it? And the Sabbath was not
+given to the Gentiles from the Lord, but if the Gentiles and
+ſtrangers came among the Jews, they were to reſt within his
+Gates that had the figure, and his man-ſervants, and his
+maid-ſervants, and cattel, it was a ſign and a Covenant be<g ref="char:EOLhyphen"/>tween
+God and the Children of <hi>Iſrael,</hi> of the everlaſting reſt
+of Jews and Gentiles, and the whole Creation, Chriſt Je<g ref="char:EOLhyphen"/>ſus
+the reſt, and the giver of reſt; Now the Gentiles, the
+Jews was not to ſtone them to death that kept not the Sab<g ref="char:EOLhyphen"/>bath
+without them, ſix dayes the Children of <hi>Iſrael</hi> was to
+gather Manna, the ſeventh they was to reſt from ga<g ref="char:EOLhyphen"/>thering
+their meat, and if they did gather it, it ſtunk;
+Now do not you gather your meat on the Sabbath day?
+And have not ye broken the Law of God? And are ye not
+finding fault with others that breaks the Sabbath? But
+where was any Sabbath dayes commanded by Chriſt or the
+Apoſtles to be kept by the Chriſtians, if not, to fine or im<g ref="char:EOLhyphen"/>priſon
+them, ſhew me that Scripture, that Chriſt or the
+Apoſtles gave forth ſuch a Law upon record, then ye will not
+be found uſurpers of Authority and Miniſtry? and ſo is not
+<pb n="4" facs="tcp:100741:3"/>
+this doctrines of men, and Commandements of men, to
+ſet up a Sabbath-day, and your own precepts which are
+taught, and no Scripture can ſhew of Chriſt or the Apoſtles
+for it; And <hi>Nehemiah</hi> the Tenth, If the people of the Land
+bring wares or any victuals on the Sabbath day to ſell, they
+was not to buy it of them on the Sabbath day, the Holy day;
+Now do not you ſell victuals on the Sabbath day, open your
+ſhops on the Sabbath day, and drive your cattel to the Mar<g ref="char:EOLhyphen"/>kets
+on the Sabbath day, the ſeventh day, and ſet open your
+ſhops of all ſorts, which by the Law of God was to dye, to
+be ſtoned to death; and will you perſecute or impriſon, and
+fine ſuch as open their ſhops on the firſt day, one of the ſix
+dayes? Who gave ye this Law? Where is it written in the
+Scriptures by Chriſt or the Apoſtles, that profeſſeth the ſub<g ref="char:EOLhyphen"/>ſtance
+is come that ends the Sabbath, the Jews Sabbath?
+Then men ſhould be fined, or perſecuted for working on the
+ſix dayes; Did not they prophane the Sabbath in the tenth
+of <hi>Nehemiah,</hi> that bought victuals on the Sabbath day, and
+fiſh, and ſuch as trod the Wine-preſs? Theſe polluted the
+Sabbath day, the ſeventh day, and broke the Law of God;
+Do not ye reap down your Corn on the Sabbath day, the
+ſeventh day, till your ground, and buy your wares, and
+meat, and ſell it again upon the ſeventh day, which was the
+Lords Sabbath, which was a Covenant and a Law between
+him and the Jews, and death to the tranſgreſſor, to be cut
+off and ſtoned to death? And ſo was not there a Command
+among the Jews, that the Gates ſhould be ſhut up when it be<g ref="char:EOLhyphen"/>gan
+to be dark till after the <hi>Sabbath,</hi> that no burden ſhould
+go in or out, that no Merchant or ſeller of any kind ſhould
+ſell that day among them; Now this Law was among the
+Jews, but not among the Gentiles, it was not given to the
+Gentiles; Did not <hi>Iſaiah</hi> cry againſt them that polluted the
+Sabbath, the ſeventh day, but not the firſt day, <hi>Iſaiah</hi> 56?
+The Lord ſaid to <hi>Ezekiel,</hi> they greatly have polluted my
+Sabbath, and ſo broken his Commandement; he did not
+ſay, they have polluted the firſt day, and they walked not
+in his <hi>Statutes,</hi> ſee 20 of <hi>Ezekiel;</hi> So they that wrought,
+and do work upon the <hi>Sabbath</hi> day, the ſeventh day, pro<g ref="char:EOLhyphen"/>phaned
+it, and broken the <hi>Statutes</hi> of God, 12 <hi>Ezekiel</hi> and
+13 <hi>Ezekiel;</hi> Now the Jews that had the ſign, as kept the
+Covenant of God, that was a perpetual Covenant with
+<pb n="5" facs="tcp:100741:3"/>
+them, the outward Jews; Now Chriſt when he came, the
+ſubſtance, they accuſed him to be a <hi>Sabbath</hi>-breaker and his
+Diſciples, who was the everlaſting Covenant of God that en<g ref="char:EOLhyphen"/>ded
+the firſt, that Covenant of the <hi>Sabbath</hi> day Chriſt the
+reſt; Now Chriſt did not bid the Jews take his Diſciples
+and ſtone them to death, when they plucked off the ears of
+corn, when they were walking up and down <hi>Sabbath</hi> dayes
+journeyes, they was not fined or impriſoned, or goods
+ſtrained by the Jews, as the Chriſtians do now, ſuch as go up
+and down to the ſervice and worſhip of God; for the Jews
+ſaid, it was not lawful for the Diſciples to gather meat, to
+gather corn on the <hi>Sabbath</hi> day; And Chriſt asked them,
+whether they had not read what <hi>David</hi> did when he eat of
+the ſhew-bread, <hi>Matth.</hi> 1<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 4, 5. and was blameleſs? And
+what the Prieſts did in the Temple, and was blameleſs?
+And told them again, that he the <hi>Son</hi> of man was Lord of
+the <hi>Sabbath,</hi> that he had power, which was as much as to
+ſay, his Diſciples were blameleſs, and did not find fault with
+them, nor did not rebuke them; And the Jews did not ac<g ref="char:EOLhyphen"/>cuſe
+Chriſt, for doing any thing on the firſt day of the week,
+nor the Diſciples; And then after the Jews had accuſed
+Chriſt and his Diſciples for plucking ears of corn on the
+<hi>Sabbath</hi> day; and then after Chriſt himſelf healed a man
+on the <hi>Sabbath</hi> day, they accuſed him as a <hi>Sabbath</hi>-breaker,
+ſee 12. <hi>Matth,</hi> and 2. <hi>Mark,</hi> and ſo he ſaid unto them, was it
+not lawful to do good on the <hi>Sabbath</hi> day? And this is juſt
+now like our Profeſſors and Teachers, and corrupt Magi<g ref="char:EOLhyphen"/>ſtrates,
+that will perſecute friends that go to Meetings, to edifie
+one another in the things of God, on the firſt dayes, and
+tell them that they break the <hi>Sabbath,</hi> and the Jewes laugh
+at them, and know that that was never commanded, and
+they keep Markets and Fairs on the ſeventh day, which was
+the <hi>Sabbath</hi> day, the Covenant between God and the Jewes;
+Which Covenant Chriſt the everlaſting Reſt, ends; And
+thoſe Jewes who were ſo mad about the outward day, and
+did not know the everlaſting Covenant Chriſt Jeſus,
+they took up ſtones to ſtone him, as ye may read the 8th
+of <hi>John;</hi> and the Jewes ſaid, it was not lawful for the
+man that was healed to carry his bed upon the Sabbath day;
+Now the Law had forbidden the carrying of burthens, dreſ<g ref="char:EOLhyphen"/>ſing
+of meat, and kindling of fire on the <hi>Sabbath</hi> day, the
+<pb n="6" facs="tcp:100741:4"/>
+firſt Covenant between God and the <hi>Jews.</hi> But the ſecond
+Covenant was come, the Lord of the Sabbath, that healed,
+that gave reſt, and ſaid take up thy bed and walk; Is the day
+made for the man, or the man for the day? Is the man above
+the day, or the day above the man? The Son of man alſo
+is Lord of the Sabbath, Therefore the <hi>Jews</hi> went about to
+ſlay him, and perſecuted him for doing good on the Sabbath
+day, the ſeventh day. Not the firſt day, as the Chriſtian
+Magiſtrates do now, Fines and perſecutes ſuch as go to the
+worſhip and ſervice of God on the firſt day, and ſets open
+their ſhops and keeps Markets, and Fairs on the ſeventh
+day, the Sabbath, and keeps them ſhut on the firſt day.
+The <hi>Jews</hi> ſought to kill Chriſt becauſe he had not onely bro<g ref="char:EOLhyphen"/>ken
+the Sabbaths day but that he had made himſelf equal
+with God, ſee <hi>Joh.</hi> 6. And this was a great crime accounted, that
+he who was the ſubſtance broke the Sabbath day, which was
+the ſeventh day, which the world calls Saturday, the Hea<g ref="char:EOLhyphen"/>then
+calls it Saturday, and all the Chriſtians that be in the
+Heatheniſh nature; and Fryday, and Thurſday, and
+Wedenſday, and Tueſday, and Monday, that day they
+worſhip the Moon; and Sunday, that day they did worſhip
+the Sun. Here is the old Heathens Nature, and names, that
+knew not God nor Scriptures, nor the Law of God. For
+they are onely the Heathen, not Chriſtians nor true <hi>Jews,</hi>
+that calls the dayes, Sun, and Moon, and Twes, and
+Woden and Thur. and Fryday and Saturns day; for
+the true Chriſtians ſaid firſt day and ſecond day, &amp;c. to the
+ſeventh, and that they call Sabbath, the <hi>Jews.</hi> But the falſe
+Chriſtians they call the firſt day of the week Sabbath, which
+they call Sunday; (and Moonday) the Chriſtians that is in
+the Heatheniſh nature ſince the dayes of the Apoſtles, as ye
+may read in the Almanacks. And ſo ye may ſee how after the
+<hi>Jews</hi> outward, to whom the firſt Covenant was, the Sab<g ref="char:EOLhyphen"/>bath,
+the ſign outward of Chriſt the everlaſting Covenant,
+<hi>John</hi> 7. And they ſaid this man Chriſt he was not of God,
+and a ſinner, becauſe he kept not the Sabbath, therefore
+was a ſinner. <hi>John</hi> 9. 16. Chriſt Jeſus the Covenant who
+came to end the firſt Covenant and the day, he that did
+give reſt who was the everlaſting Covenant of God, between
+God and the people, ſtrangers, <hi>Jews Gentiles,</hi> and the reſt
+to ſervant men, and maides, and cattel, and ſtrangers,
+<pb n="7" facs="tcp:100741:4"/>
+Chriſt the ſubſtance of the firſt; the everlaſting Covenant,
+though the firſt was given, not to the <hi>Gentiles</hi> but onely to a
+particular people, the <hi>Jews;</hi> the Covenant of God between
+him and them, which was to obſerve a day, which was a
+ſign of the everlaſting Covenant Chriſt Jeſus, ſo Chriſt who
+was the Covenant of God that gave reſt unto the Creation,
+did not ſet forth to the Chriſtians that they ſhould keep ano<g ref="char:EOLhyphen"/>ther
+Sabbath day, and impriſon, ſtrain the goods of ſuch as
+went up and down to private meetings to worſhip God, or
+as laboured on the firſt day of the week. He did not ſet
+up Lawes to oppreſſe the Creation, but he brake them, and
+ended the Law, and the firſt Covenant, Chriſt, who Rules
+himſelf, and hath all power in Heaven and Earth given unto
+him of the Father.</p>
+            <p>And now all ye Chriſtians, Teachers, and Magiſtates and
+Profeſſors; If ye will have a Sabbath, and cry up a Sabbath,
+ye muſt offer on the Sabbath dayes two Lambs of the firſt year
+without ſpot, two tenth deals of flower for a meat-offering
+mingled with oil, and a drink-offering thereof. And this is the
+burnt-offering in every <hi>Sabbath,</hi> beſides the continual burnt<g ref="char:EOLhyphen"/>offering,
+and drink-offerings. So where is your offerings, if ye
+will have a <hi>Sabbath</hi>; why do ye not cry up offerings as well as
+the <hi>Sabbath</hi>? why do ye not cry up the day, and do none
+of the work that is to be done on the day, <hi>Numb.</hi> 28. 9. <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0.
+1 <hi>Chron.</hi> 23. Burnt-offerings and ſacrifices unto the Lord, in
+the Sabbaths, in the new-Moons, and ſo why do ye not ob<g ref="char:EOLhyphen"/>ſerve
+the burnt-offerings, and the ſacrifices, you that pre<g ref="char:EOLhyphen"/>tend
+to obſerve <hi>Sabbathes</hi>? And why not new-Moons, and
+the ſet Feaſts, according to the Commandment of the Lord
+continually before him? for they that was to obſerve the
+<hi>Sabbath,</hi> was to obſerve the ſacrifices by their Numbers, ſee
+2 <hi>Chron. 2. Solomon</hi> that build an houſe to the Lord, Dedicated
+to him, and burnt before him ſweet incenſe continually,
+ſhew-bread, with the burnt-offerings morning, and Even<g ref="char:EOLhyphen"/>ing
+upon the <hi>Sabbaths,</hi> and their new Moons, and this
+was an Ordinance for ever to <hi>Iſrael.</hi> And now if ye profeſſe
+the <hi>Sabbath,</hi> the children of <hi>Iſraels Sabbath,</hi> and leave the
+burnt-offerings, and the continual ſhew-bread, ye may as well
+leave ſabbaths, as leave the work; for this was the work of
+the ſabbath; and ſo ye that profeſſe ſabbaths, ye may aſ<g ref="char:EOLhyphen"/>well
+<pb n="8" facs="tcp:100741:5"/>
+well profeſſe new-Moons, and the ſolemn Feaſts, 2 <hi>Chron.</hi> 8.
+<hi>Solomon</hi> even after a certain rate every day offering according
+to the Commandment of <hi>Moſes,</hi> on the ſabbath; ſo ye that
+be chief Magiſtrates, like <hi>Solomon</hi> (that will have your ſab<g ref="char:EOLhyphen"/>baths,
+and bring not your offering) ye muſt offer, and ſo deny
+Chriſt come in the fleſh, the <hi>Covenant</hi> of God, and the reſt
+of his people: for ye which makes ſuch ado about ſabbaths, and
+perſecuting others about ſabbaths <hi>Neh.</hi> 10. ſee what was there;
+The ſhew-bread, continual meat-offerings, continual burnt<g ref="char:EOLhyphen"/>offerings
+of the ſabbaths, and new Moons, &amp; ſet Feaſts, ſo you
+that will have ſabbaths, muſt have the <hi>Jewiſh</hi> Law, and the
+burnt-offerings, and to maintain them, elſe all people will
+laugh at you, to cry up the one, and not the other <hi>viz.</hi> the
+meat-offerings, and burnt-offerings. And was not thoſe of<g ref="char:EOLhyphen"/>ferings
+held up by the Authority, the higher Power, ſo well
+as the ſabbath, the meat-offerings and burnt offerings? ſo
+if ye hold up the one, ye muſt hold up the other, and ſo de<g ref="char:EOLhyphen"/>ny
+Chriſt come in the fleſh. And ſee in <hi>Ezek.</hi> 46. 4. The burnt<g ref="char:EOLhyphen"/>offerings
+that the Princes ſhall offer unto the Lord on the ſab<g ref="char:EOLhyphen"/>bath
+day, ſhall be ſix Lambs without blemiſh; and the meat<g ref="char:EOLhyphen"/>offering
+ſhall be an Ephah for a Ram, &amp;c. Now here is the
+Princes work the Rulers and Magiſtrates, that cry up a ſab<g ref="char:EOLhyphen"/>bath,
+to offer ſix Lambs, burnt-offerings, &amp;c. ſo now ye
+Princes, ye Magiſtrates, ye Rulers, where is your Lambs
+without blemiſh? a figure of Chriſt, to offer on the ſabbath
+dayes, which was a figure of Chriſt? likewiſe a figure of
+the reſt. And why? ye Magiſtrates, and Teachers; why
+have have ye the ſabbath, and not the offerings? why not the
+one, as well as the other? What a doubting and diſcon<g ref="char:EOLhyphen"/>tented
+Religion is this? and Jumbled, and confuſed, to
+take part, and leave part; ſo the Sabbath day, and the
+Princes offering, the Lambs upon it, was before Chriſt came
+in the fleſh, A figure as ye may read, and this is for the
+Magiſtrates and Princes that perſecutes others about the
+Sabbath; and yet they themſelves do not according to the
+Sabbaths commands and Ordinances, to bring the Rams,
+and Lambs. Jeſus went up and down teaching on the Sab<g ref="char:EOLhyphen"/>bath
+day, the Apoſtles went up and down teaching on the
+ſabbath day, and we never read that the <hi>Jews,</hi> and the
+Magiſtrates, did perſecute them, which was the ſeventh
+<pb n="9" facs="tcp:100741:5"/>
+day. And they travelled up and down on the firſt day of the
+week which the Apoſtate Chriſtians have given it the name of a
+ſabbath day; but have no Scripture for it, we never find that
+they were fined and priſoned about the worſhip of God, and
+ſervice that they did on the ſeventh dayes, or the ſabbath
+dayes, or the firſt dayes; And do not the <hi>Jews</hi> perſecute the
+Chriſtians for not obſerving their offerings, and their ſab<g ref="char:EOLhyphen"/>bath
+dayes? Therefore ſaith the Apoſtle, Let no man Judge
+you in meats, and drinks, or in reſpect of ſabbath days, for the
+body is Chriſt; he was the ſubſtance: for the will worſhippers,
+and intruders intrude into theſe things which they never ſaw,
+but neglect the body, and hold not the head; But to the ſa<g ref="char:EOLhyphen"/>tisfying
+of the fleſh run to the obſerving of dayes, and ſo the
+fleſh would live in the ſhadowes, and not hold the head; there
+is the worſhip, and worſhippers of Angels. And ye never read
+that the Apoſtles ſpake to the <hi>Gentiles</hi> to bid them obſerve a ſab<g ref="char:EOLhyphen"/>bath,
+and keep a ſabbath; we never read that any was perſe<g ref="char:EOLhyphen"/>cuted
+for doing the thing that was good on the firſt day, the
+eighth day after the ſabbath; But we read that they were
+ſtoned to death, and put to death, for working upon the ſab<g ref="char:EOLhyphen"/>bath
+day, which is the ſeventh day, which ye keep Markets and
+Fairs on, and on that day doth moſt work. And when there
+was a controverſie amongſt the <hi>Romans</hi> about dayes, the Apo<g ref="char:EOLhyphen"/>ſtle
+ſaith, one man eſteems one day above another; another
+eſteems every day alike, let every man therefore be fully per<g ref="char:EOLhyphen"/>ſwaded
+in his own mind; Mark here! ye Teachers, Profeſſors,
+and ye Magiſtrates, the Apoſtle doth not tell ye, that ye ſhould
+fine him, or impriſon him, but let every man be fully per<g ref="char:EOLhyphen"/>ſwaded
+in his own mind. And he that regardeth a day, re<g ref="char:EOLhyphen"/>regardeth
+it unto the Lord, and he that regardeth not the day
+to the Lord, regardeth it not, ſee <hi>Rom.</hi> 14. 5. 6. Likewiſe he that
+eateth, eateth to the Lord, for he giveth God thanks, and
+he that eateth not to the Lord, he eateth not, and giveth God
+thanks; But why doſt thou Judge thy brother, and ſet him
+at nought about eating, and about dayes. And ſo we ſay to
+the Magiſtrates and Profeſſors, why do ye fine your Brethren
+about dayes? Why do you Judge them, and ſet them at
+nought? let us not Judge therefore one another, but rather
+judge that we put not a ſtumbling block before our brethren;
+For the Kingdom of God ſtands not in meats and drinks, nor
+in ſhadowes, but in righteouſneſs, &amp; peace, and joy in the holy
+<pb n="10" facs="tcp:100741:6"/>
+Ghoſt; now it cometh not with obſervation. But follow the things
+of God which makes for peace, and edifies which are out of ſha<g ref="char:EOLhyphen"/>dowes,
+and ends them. And he, that man, or woman that doth
+eſteem one day above another day, muſt not judge him that
+doth not eſteem a day, and he that doth not regard a day, but
+eſteems every day alike, muſt not judge him that doth eſteem a
+day, what firſt day &amp; ſabbath day all alike? muſt not ſuch a man
+be fined and impriſoned (or woman) by that man that eſteems
+one day above another? Nay, for the Doctrine is, that every
+man be fully perſwaded in his own mind, and not to judge one
+another about dayes, for the body is Chriſt; And he that is
+come to him, is come to the Wiſdom of God, that was before
+dayes was; Ye obſerve dayes (ſaith the Apoſtle) <hi>Gal.</hi> 4. and
+Moneths, and times, &amp; years, &amp;c. I am afraid of you, leaſt I have
+beſtowed upon you labour in vain; What is not the Apoſtles la<g ref="char:EOLhyphen"/>bour,
+&amp; <hi>Epiſtles</hi> all beſtowed on you in vain? that obſerve days,
+and perſecuce others that will not obſerve dayes? Did not the
+Apoſtles tell the <hi>Galatians</hi> that they were bewitched that went
+into Circumciſion, and obſervation of dayes, and Monthes,
+and years? And what, are not all you bewitched now that ob<g ref="char:EOLhyphen"/>ſerve
+dayes, and Monthes, and years? And the Apoſtles labour
+is in vain on ye all beſtowed, and his <hi>Epistles.</hi> Now if ye ſay
+that <hi>John</hi> was in the Iſland <hi>Pathmos</hi> upon the Lords day, tell
+me which is not the Lords day, whether firſt, ſecond, third or
+fourth, &amp;c. whether all be not the Lords dayes? Now if ye ſay,
+the Saints met together on the firſt day of the week (which
+Chriſt riſe on) we own that; and ſo we do meet together on that
+day, <hi>Acts 20. 7. 1. Cor.</hi> 6. 2. but the Apoſtles did to give a Law,
+that the firſt day of the week ſhould be called a ſabbath, and
+they ſhould be fined, and impriſned, that laboured in the
+thing that was good, needful things; now if ye call it a ſabbath,
+then ye muſt be croſſed as the <hi>Jews</hi> was, if ye make an idol of
+it. The Lord God in his power (to the exalting of his Son, who
+is the reſt of his people) will confound your ſabbath which ye
+have made and invented, who calls the firſt day ſabbath, and
+ſay they muſt do no work that day, and yet many of ye will
+hardly go to your worſhip (on that day) without horſes draw<g ref="char:EOLhyphen"/>ing
+of you in your Coaches. And your Cooks labour that day,
+and dreſſeth meat for money on that day; But if any man open
+his ſhop that day, he muſt be fined, or impriſoned which is
+for meat too (and for money) now what confuſion is this? Is
+<pb n="11" facs="tcp:100741:6"/>
+not the Cook working for money, &amp; the other working for mony
+all one? And the porters working for mony by carrying people in
+their Sedans to their worſhip? and have not the Parliament ſat on
+the firſt day, which ye call the ſabbath day, to do the Nations
+work? Therefore now that people ſhould be ſo ſcrupling, cal<g ref="char:EOLhyphen"/>ling
+the firſt day ſabbath day, wch is not proper. And how many
+hundreds of pouuds hath been taken from the people called
+Quakers for travelling to their meetings on the firſt day, and
+how many 100 1. doth your Prieſts get on that day, and have as
+much for that dayes work to maintain their families the whole
+week, is not that his ſhop and Market day, which the Apoſtate
+Chriſtians calls ſabbath, who have had their goods taken away,
+horſes taken away, hundreds of pounds worth for their going to
+meetings to the worſhip and ſervice of God? and no where in
+the Scripture it doth ſpeak, that the firſt day of the week is
+the ſabbath day, nor gives it that name. Nor did they give forth
+Ordinances that they ſhould be fined, and impriſoned, and
+their goods ſtrained for going to meetings on that day, or if
+any one did other things on that day; Which ſome of your
+Tradſmen may labour and get money on the firſt day (your
+ſabbath day, and others muſt not Dreſſe meat for money, and
+others muſt not ſell meat for money, which be things that be
+neceſſary and commendable; And therefore if one thing be
+tollerated, and yet do not another, ye tranſgreſſe your own ſab<g ref="char:EOLhyphen"/>bath,
+they were not (the <hi>Jews</hi>) to gather their meat on that day,
+ye gather your meat on that day. They were not to make fire, on
+the ſabbath, ye make a fire on your ſabbath. They were nor to bear
+a burthen on that day; ye are carrying burdens, your women in
+their Sedans, running up and down with your meat from the
+Cookes ſhops, and drawing of your Coaches up and down about
+the ſtreets, that people can ſometimes hardly paſſe up and down
+for them; ſo the ſeventh day was the ſabbath day where the
+Ordinance of God was, that no manner of work was to be
+done on it; The firſt day Chriſt riſe on, who ended the <hi>Jews</hi>
+ſabbath and that Covenant, and was the ſubſtance of that figure
+to the whole Creation, to the man-ſervant, and maid-ſervant,
+and ſtranger. And the Chriſtians that believed in him (Chriſt)
+that roſe on the firſt day of the week, they met together on the
+firſt day Chriſt riſe on, he appeared amongſt them, (though
+there is more in that) and ſo they Apoſtles did not give forth
+a Law that they ſhould judge one another about dayes; or that
+<pb n="12" facs="tcp:100741:7"/>
+they ſhould fine one another about ſuch things; he that did
+eſteem all dayes alike, and he that did eſteem one day above
+another, they ſhould live in peace; For one that was not come
+through dayes, and he that was come to ſee the end of dayes,
+every one muſt ſtand or fall to this own Maſter, the Spirit that
+made them free, Chriſt that made them free, and not to Judge
+or lay a ſtumbling block before his Brother; As the hard<g ref="char:EOLhyphen"/>hearted
+Chriſtians now will fine and impriſon one another a<g ref="char:EOLhyphen"/>bout
+dayes, They that do obſerve a day one above another, they
+will Judge, and fine and impriſon them that account every day
+alike, and ſo they will not let him ſtand or fall to this own Ma<g ref="char:EOLhyphen"/>ſter,
+and will not own the Apoſtles Doctrine, but throw it away,
+who ſaith, they ſhould not Judge one another about the ſuch things.</p>
+            <p>So all Friends of the Lord God, that be moved to ſet open
+your ſhops, or do any work on the firſt day, which the falſe
+Chriſtians call their Sabbath, and yet break it, and not keep
+it as a Sabbath (contrary to Scriptures) Do not ye Judge all
+as do not as ye do, that be not moved to do the ſervice as ye
+are to do that day; And all that doth not do that ſervice on
+that day as ye do, as are not moved by the power of the Lord
+God, do not Judge them that doth ſuch a ſervice on that day.
+But all dwell in the power of God that ends the ſhadows, that
+ye may feel one another in that which will confound the
+world which is run into the witch-craft, in obſerving of dayes
+&amp; times, &amp; months &amp; years, as Chriſt-maſs, Michael-maſs, Lam<g ref="char:EOLhyphen"/>maſs,
+Candle-maſs, &amp;c. (and in which ye may have Unity)
+The Apoſtles did not Command ſuch things, but they invented
+them ſince the Apoſtles dayes, and perſecute one another a<g ref="char:EOLhyphen"/>bout
+them, ſuch as would not obſerve them, but remained in
+the Apoſtles Doctrine, and obſerve it. Therefore now who
+are come into the power of God the Apoſtles were in, and
+come to fathome the falſe church, the beaſt, the falſe prophets,
+Anti-chriſt, the Dragon and his authority, falſe prophet,
+falſe church, lawes and authority, fathoming this by the power
+of God, and come to ſee the true Church coming out of the
+Wilderneſs, and the Lambs Marriage witneſs, the time that the
+Apoſtles were in ſeen, and the life and power enjoyed, and
+ſubſtance as they did poſſeſs, which brings to the beginning
+before dayes was, in which is no ſhadow.</p>
+            <closer>
+               <signed>Anne Goula
+Robert Haſle
+Humphrey Bache Mary Web.
+Daniel Baker.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="13" facs="tcp:100741:7"/>
+            <p>
+               <hi>PAul</hi> told the Counſel &amp; the Magiſtrates when he was before
+them, Men and Brethren, I have lived before God in all
+good Conſcience until this day, and the way which ye call He<g ref="char:EOLhyphen"/>reſie,
+ſo worſhip I the God of my Fathers, believing all things
+which are written in the Law and the Prophets, and have hope
+towards God, which they themſelves alſo allow, that there
+ſhould be a Reſurrection of the dead, both of the Juſt and the
+unjuſt, and herein do I exerciſe my ſelf, to have my Con<g ref="char:EOLhyphen"/>ſcience
+alwayes void of offence, both towards God and to<g ref="char:EOLhyphen"/>wards
+man, ſee <hi>Act.</hi> 24. 16. Now when the Apoſtle came to
+exerciſe himſelf, to have alwayes his Conſcience void of of<g ref="char:EOLhyphen"/>fence
+towards God and towards men, then did the Magiſtrates
+and Counſels and the Prieſts gather againſt him, when he be<g ref="char:EOLhyphen"/>gan
+to keep his Conſcience void of offence towards God and
+towards men; Neither did they perſecute us, until we came
+to exerciſe our ſelves towards God and towards men, not re<g ref="char:EOLhyphen"/>garding
+day nor ſhadows, but the ſubſtance Chriſt who ends
+all types, and preached Chriſt the ſubſtance to Jews and Gen<g ref="char:EOLhyphen"/>tiles;
+So that was a thing to the Magiſtrates, to the powers,
+to the Principalities and to the Counſels, to the Jewes, to the
+Prieſts, the Temple and the Tithes, the firſt Covenant and
+the Offerings, the ſhadows, the Types, they turned againſt
+the Apoſtle, who was come to the exerciſe of himſelf, to have
+his Conſcience void of offence, &amp;c. Now mark ye Magiſtrates,
+What have ye to do with Conſcience? And what have ye to
+do with <hi>Paul,</hi> and them that exerciſe themſelves to keep al<g ref="char:EOLhyphen"/>wayes
+a good Conſcience void of offence towards God and to<g ref="char:EOLhyphen"/>wards
+men? What have the Jewes Magiſtrates and the Coun<g ref="char:EOLhyphen"/>ſel,
+and the Heathen Kings and Magiſtrates to do with the A<g ref="char:EOLhyphen"/>poſtle,
+who exerciſed himſelf to have a good Conſcience to
+keep it void of offence, &amp;c. and what have they to do with
+him now? And then they begin to perſecute him; ye do not
+read it before that they perſecuted him (the Magiſtrates) until
+he came to exerciſe himſelf to have a good Conſcience void of
+offence, &amp;c. Then was he perſecuted of the Magiſtrates, the
+Jews Magiſtrates and Counſel, and Heathens, and ſo it is now
+to this day; for ye never medled with us or any of the Apo<g ref="char:EOLhyphen"/>ſtles,
+until they came to improve their own talent, and to put
+<pb n="14" facs="tcp:100741:8"/>
+hte Lords money to Uſury, and to improvement, and come to that which ex<g ref="char:EOLhyphen"/>erciſeth
+themſelves to keep their Conſcience clean, and void of offence to<g ref="char:EOLhyphen"/>wards
+God, and towards man, towards the righteous God, and the things
+which are righteous towards men, and ſhew forth their everlaſting Salvation;
+Then doth Magiſtrates, Kings, Profeſſors and Prieſts being to be like mad
+men, rage and cruelly perſecute, baniſh, whip, ſtone, ſtock, reproach,
+mock, when men come to exerciſe their Conſcience towards God to have it
+void of offence, &amp;c. And that hath been the overthrowing of Nations, o<g ref="char:EOLhyphen"/>verthrowing
+of powers, when they left the Law that is Juſt, to keep down
+tranſgreſſion, envious perſons, and man-ſlayers and ſuch as be the deſtroyers of
+the Creation, and left ſuch, and turned themſelves againſt ſuch as exerciſed
+themſelves to keep their Conſcience void of offence, &amp;c. And then did they
+turn from the power of God, and turned againſt God, and turned themſelves
+againſt thoſe that exerciſe themſelves to have alwayes a good Conſcience void
+of offence towards God, &amp;c. And ſuch endures grief, and ſuffers wrongfully
+for Conſcience ſake towards God, are buffeted for no fault, and ſuch as do ſo,
+taking it patiently, are thank-worthy, 1 <hi>Pet.</hi> 2. 19. And ſuch they ſpeak evil
+of, as evil-doers, as have a good Conſcience; And ſuch are falſly accuſed,
+as have their good converſation in Chriſt Jeſus, that ſuffer for well-doing, ſee
+1 <hi>Pet.</hi> 3. And ſuch as draw nigh unto God with a true heart, in a full aſſu<g ref="char:EOLhyphen"/>rance
+of Faith, having our hearts ſprinkled from an evil conſcience, and our
+bodies waſhed with pure water, <hi>Heb.</hi> 10. And ſuch comes to witneſs the blood
+of Chriſt, who through the eternal Spirit offered up himſelfe without ſpot un<g ref="char:EOLhyphen"/>to
+God, purging their Conſciences from dead works, to ſerve the living God;
+Then ſuch as be in the dead works perſecutes, that have the evil Conſcience,
+perſecutes them that have their Conſciences cleanſed, <hi>Heb.</hi> 9. Therefore ſaith
+the Apoſtle, I thank God whom I ſerve (from my Fathers) with a pure
+Conſcience, 2 <hi>Tim.</hi> 1. 3. holding the Myſtery of faith in a pure Conſcience;
+here was the Apoſtles, the Saints Teſtimony, 1 <hi>Tim.</hi> 3. But ſuch now pro<g ref="char:EOLhyphen"/>feſſors,
+that profeſs God (in words) but in works deny him, their Conſciences
+are defiled; And they are them that ſay, while they are upon earth their Con<g ref="char:EOLhyphen"/>ſciences
+muſt be defiled, while they are upon earth, and ſo have not the
+Faith, nor a place for it; the living Faith in which it is held, the pure Con<g ref="char:EOLhyphen"/>ſciences.
+Now the end of the Commandement is Charity, our of a pure
+heart, and a good Conſcience and Faith unfeigned, in which Conſcience this
+Faith is held; And thoſe were them that were perſecuted, having Faith and
+a good Conſcience, which ſome have put away, and of it made ſhip-wrack,
+1 <hi>Tim.</hi> 1. And ſuch as ſpeaks lyes in hypocriſie, having their Conſciences ſea<g ref="char:EOLhyphen"/>red
+as with a hot Iron, 1 <hi>Tim.</hi> 4. And ſuch now which have put a good Con<g ref="char:EOLhyphen"/>ſcience
+away, they cannot hold the Faith, and thoſe forbid meats, and drinks,
+and marriage, and follows the fables; And theſe be them that be in hard<g ref="char:EOLhyphen"/>neſs
+of heart, and turns againſt them that have a good Conſcience; Now we
+knowing the terrour of the Lord perſwade men, but we are manifeſt unto
+God, I truſt alſo are manifeſt in your Conſciences, 2 <hi>Cor.</hi> 5. Having renoun<g ref="char:EOLhyphen"/>ced
+the hidden things of darkneſs and diſhoneſtly, not walking in craftineſs,
+nor handling the Word of God deceitfully, but in the manifeſtation of the
+truth commending our ſelves to every mans Conſcience in the ſight of God,
+2 <hi>Cor.</hi> 4, &amp;c. For our rejoycing is this, the Teſtimony of our Conſciences,
+that in ſimplicity, and godly ſincerity, not in the fleſhly wiſdom, but in the
+grace of God we have had our converſation in the world, &amp;c. 2 <hi>Cor.</hi> 1.
+<pb n="15" facs="tcp:100741:8"/>
+Therefore take heed of ſinning againſt your Brethren, and wounding their
+weak Conſcience, if ye do, ye ſin againſt Chriſt; Therefore keep thy Con<g ref="char:EOLhyphen"/>ſcience
+clean, I ſay the truth in Chriſt Jeſus, I lye not, my Conſcience alſo
+bearing me witneſs in the holy Ghoſt; The good Conſcience witneſſeth with
+truth, which the Myſtery of Faith is held in it, <hi>Rom.</hi> 8. Pray for us, for we
+truſt we have a good Conſcience in all things, willing to live honeſtly, <hi>Heb.</hi> 12.
+And the Sacrifice could not make perfect as pertaining to the Conſcience;
+Therefore when the Sacrifice, Chriſt Jeſus, that ends the other ſacrifice that
+makes perfect the Conſcience in which the Myſtery of Faith is held, <hi>Heb.</hi> 9.
+For if the comers to had been made perfect by the offerings, there had been
+no more Conſcience of ſin, the worſhippers once purged ſhould have no more
+Conſcience of ſin, but by theſe Sacrifices every year it was remembred again,
+<hi>Heb</hi> 10. And ſo while they lived in the Sacrifices, the changeable ſhadows
+of good things to come, living in the words, out of the the power, they will
+perſecute the good thing when it is come, as the Magiſtrates and the Jews did
+Chriſt and the Apoſtles and Saints; If a man bid thee to a feaſt, if thou be
+diſpoſed to go, whatſoever is ſet before thee, thou maiſt eat, asking no Que<g ref="char:EOLhyphen"/>ſtion
+for Conſcience ſake; But if they ſay, it is offered to an Idol, eat not
+for his ſake that ſhews it thee, and for Conſcience ſake, for the earth is the
+Lords, and the fulneſs thereof; Conſcience I ſay, not thine own, but of
+the other, for why is thy liberty judged of another mans Conſcience? Now
+here is the ſtate, now where the Conſcience is pure, where the Myſtery of
+Faith is hold and things pure to it, which deſtroyes Idols; And where the
+Conſcience is defiled, and not pure, whoſe minds yet be in the Idols, ſuch,
+Friends muſt take heed of coming too nigh them, leaſt they imbolden them to
+eat thoſe things that will harden an evil Conſcience; And ſuch as be in the
+evil Conſcience will perſecute, where it is not made pure, ſuch as have an evil
+Conſcience to Idols will perſecute them that do exerciſe themſeles to have a
+good Conſcience towards God, which the Myſtery of Faith is held in; So
+where this evil Conſcience is, that will eat things offered to Idols, there they
+be weak, and is defiled, and this is for want of knowledge; Now that
+which muſt give them the knowledge, the light of the knowledge of the glory
+of God in the face of Chriſt Jeſus, is the light that ſhines in their hearts, to
+bring them to eat of the Offering, Chriſt Jeſus, of his fleſh, and drink of his
+blood; And here in the light which gives the knowledge, they ſee Chriſt the
+Authour of their Faith, which is held in the pure Conſcience, are them
+that are come to the exerciſe of themſelves to have alwayes their Conſcience
+void of offence towards God. &amp;c And not to go along with him eating things
+offered to Idols, for thoſe are Heathens indeed, and weak and defiled
+indeed, and for want of knowledge indeed, that eats of the offerings
+offered unto Idols, they eat nor or the offering Chriſt Jeſus And theſe be
+from the light which ſhould give them the knowledge, See 2 <hi>Cor.</hi> 4 2, 3, 4 For
+our rejoycing is in the teſtimony of our conſciences, that in ſimplicity, and
+godly ſincerity, and not in the fleſhly wiſdom; Now mark, and take notice!
+Here is the Saints rejoycing in the teſtimony of their conſciences, in ſimpli<g ref="char:EOLhyphen"/>city,
+and godly ſincerity, and not in the fleſhly wiſdom, and this differs from
+the world, whoſe rejoycing is in the fleſhly wiſdom, not in ſimplicity, nor in
+godly ſincerity; not in the teſtimony of a good conſcience, of a pure con<g ref="char:EOLhyphen"/>ſcience;
+but their rejoycing ſtands in the teſtimony of an evil conſcience, that
+while they are upon earth, they muſt have ſin in it, &amp; thoſe are the perſecutors;
+<pb n="16" facs="tcp:100741:9"/>
+ſo here is the good and the evil, <hi>Cain,</hi> and <hi>Abel,</hi> here is <hi>Iſaac</hi> and <hi>Iſhmael,</hi> here in
+<hi>Eſau,</hi> and <hi>Jacob,</hi> and here is the bad perſecuting <hi>Jews</hi> (againſt the Prophets,
+and againſt Chriſt and the Apoſtles) that had the form of godlineſs, but de<g ref="char:EOLhyphen"/>nyed
+the power. And here is the Beaſts and falſe prophets work, great whore,
+Mother of Harlots, falſe Church, Antichriſts, inwardly ravening Wolves in
+ſheeps cloathing, who drink the blood of the Martyrs Prophets and Saints,
+and kill them that be in the power of godlineſs, the evil conſciences, full
+of dead works ſerving not the living God, their conſciences unpurged, ſuch
+cannot own the blood of Chriſt within them, nor the light within them, nor
+the word of God nor the power of God within them, nor the Spirit of God
+within them, ſuch their ſacrifices God never accepts. So all the true Saints
+who are ſubject to the power of God the higher power, not onely for wrath
+but for conſcience ſake; mark! the good conſcience is ſubject to the higher
+power which is of God, that goes over all tranſgreſſors, and anſwers the tranſ<g ref="char:EOLhyphen"/>greſſed
+principle in every man, that exerciſeth the conſcience of every man to<g ref="char:EOLhyphen"/>wards
+the higher power, to which his ſoul ſhould be ſubject to. Now all the
+evil conſciences of the Heathen, and whatſoever they was, not being ſubject
+to the higher power, which was over all the tranſgreſſors. Therefore the
+<hi>Jews</hi> which were in the higher power, was to trample down them heathen
+that was in their evil conſciences, ſo who are ſubject, not onely for wrath,
+but for conſcience ſake, they have unity with the Power, the power doth not
+turn againſt them; But where the higher power turns againſt them, the tranſ<g ref="char:EOLhyphen"/>greſſors,
+and ſo they are not ſubject to it for conſcience ſake, but onely for
+wrath, the power forceth them down, whether they will or no, for wrath the
+terror of the Lord cometh upon them, theſe are not for conſcience ſake ſubject,
+nor they are not one with it, (the power) the <hi>Gentiles</hi> that did the Law, did
+the things contained in the Law by nature, which ſhewing the work of the
+Law written in their hearts, in their conſciences, ſo the doers of the Law
+were juſtified; by the higher power; So he was a <hi>Jew,</hi> that was one inward
+in the ſpirit, not in the Letter, whoſe praiſe is not of men but of God. So the
+<hi>Gentiles</hi> was not the <hi>Jews</hi> in the Letter, but the <hi>Jews,</hi> was the <hi>Jews</hi> in the Letter
+that did not the things contained in the Law, but the <hi>Gentiles</hi> did by nature,
+having not the command, the things contained in the Law, but the <hi>Gentiles</hi> did
+by nature; having not the command, the things contained in the Law. And ſo
+the uncircumiſion kept the Law, this was accounted for circumciſion. And
+ſhall not the uncircumciſion (which is by nature if it fulfill the Law) judge
+thee who by the Letter is the circumciſion and tranſgreſſeth the Law? And this
+may judge all the outward profeſſors upon the earth, that lives upon things
+ſo without them.</p>
+            <p>And ye may ſee the Apoſtle who did exerciſe his conſcience, to keep it void
+of offence alwayes towards God, &amp;c. brought the <hi>Jews,</hi> and <hi>Gentiles</hi> here, and
+how the Magiſtrates was in a rage againſt him, and called him a peſtilent fellow,
+and one that turned the world upſide down, and a mover of ſedition, a
+ring leader of Sects, and a man not fit to live upon the earth, and how the Apo<g ref="char:EOLhyphen"/>ſtle
+confeſſed before Magiſtrates, and Rulers, and Kings, how he exerciſed him<g ref="char:EOLhyphen"/>ſelf
+to have his conſcience void of offence, &amp;c. now was he ever perſecuted,
+till he came to that confeſſion? And do ye ever perſecute any till they come
+to that confeſſion?</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
